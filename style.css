@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', serif;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background: #46638b;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container h1{
+  font-size: 80px;
+  font-weight: 600;
+}
+
+span {
+  color: #fff;
+}
